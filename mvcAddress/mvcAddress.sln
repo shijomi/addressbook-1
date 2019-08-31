@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcAddress", "mvcAddress\mvcAddress.csproj", "{65AF5A5F-D3D0-4145-8F96-48A47078C1FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiAddressbook", "apiAddressbook\apiAddressbook.csproj", "{3B9AD37C-39F8-4253-9B35-D2F62011713A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{65AF5A5F-D3D0-4145-8F96-48A47078C1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65AF5A5F-D3D0-4145-8F96-48A47078C1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65AF5A5F-D3D0-4145-8F96-48A47078C1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9AD37C-39F8-4253-9B35-D2F62011713A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9AD37C-39F8-4253-9B35-D2F62011713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9AD37C-39F8-4253-9B35-D2F62011713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9AD37C-39F8-4253-9B35-D2F62011713A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
